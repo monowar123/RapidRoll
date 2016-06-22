@@ -1,0 +1,8 @@
+J:\Programme\Projects\RapidRoll\RapidRoll\bin\Debug\RapidRoll.exe
+J:\Programme\Projects\RapidRoll\RapidRoll\bin\Debug\RapidRoll.pdb
+J:\Programme\Projects\RapidRoll\RapidRoll\obj\Debug\ResolveAssemblyReference.cache
+J:\Programme\Projects\RapidRoll\RapidRoll\obj\Debug\RapidRoll.Form1.resources
+J:\Programme\Projects\RapidRoll\RapidRoll\obj\Debug\RapidRoll.Properties.Resources.resources
+J:\Programme\Projects\RapidRoll\RapidRoll\obj\Debug\RapidRoll.csproj.GenerateResource.Cache
+J:\Programme\Projects\RapidRoll\RapidRoll\obj\Debug\RapidRoll.exe
+J:\Programme\Projects\RapidRoll\RapidRoll\obj\Debug\RapidRoll.pdb
